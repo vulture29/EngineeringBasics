@@ -2,10 +2,10 @@
 
 __Agile__ is an improvement over waterfall. Continuous integration, test first programming, etc.
 
-- Individuals and interactions
-- Working software
-- Customer collaboration
-- Responding to change
+- __Individuals and interactions__ over processes and tools
+- __Working software__ over comprehensive documentation
+- __Customer collaboration__ over contract negotiation
+- __Responding to change__ over following a plan
 
 ###Design:
 - __UML__ (Unified Modeling Language) 
